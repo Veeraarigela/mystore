@@ -1,4 +1,3 @@
-
 let products = [];
 const cart = {};
 let users = [];

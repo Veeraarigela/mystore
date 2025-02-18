@@ -35,5 +35,23 @@
         "name": "Product 6",
         "desc": "Description of the product. Description of the product. ",
         "price": 45
+      },
+      {
+        "id": 7,
+        "name": "Product 7",
+        "desc": "Description of the product. Description of the product. ",
+        "price": 47
+      },
+      {
+        "id": 8,
+        "name": "Product 8",
+        "desc": "Description of the product. Description of the product. ",
+        "price": 67
+      },
+      {
+        "id": 9,
+        "name": "Product 9",
+        "desc": "Description of the product. Description of the product. ",
+        "price": 56
       }
   ]
